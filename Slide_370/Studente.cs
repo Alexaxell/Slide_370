@@ -1,6 +1,6 @@
 ﻿namespace Slide_370
 {
-    public class Studenti : Persona
+    public class Studente : Persona
     {
         public List<Voto> Voti { get; set; }
     }
